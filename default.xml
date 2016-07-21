@@ -19,7 +19,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="K900-MM/android" remote="github" revision="refs/heads/master" />
+  <project path="android" name="K900-MM/android" remote="github" revision="refs/heads/cm-13.0" />
   
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
