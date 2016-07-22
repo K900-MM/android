@@ -519,6 +519,8 @@
 <!-- END AOSP -->
 
   <!-- lenovo k900 specific code -->
+  <project path="external/alsa-lib" name="zf5/android_external_alsa-lib" remote="github" revision="refs/heads/master" />
+  <project path="external/alsa-utils" name="zf5/android_external_alsa-utils" remote="github" revision="refs/heads/master" />  
   <project path="device/lenovo/redhookbay-common" name="K900-MM/android_device_lenovo_redhookbay-common" remote="github" revision="refs/heads/master" />
   <project path="device/lenovo/redhookbay" name="K900-MM/android_device_lenovo_redhookbay" remote="github" revision="refs/heads/master" />
   <project path="vendor/lenovo/redhookbay-common" name="K900-MM/android_vendor_lenovo_redhookbay-common" remote="github" revision="refs/heads/master" />
